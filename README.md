@@ -1,2 +1,2 @@
 # indirect-addressing
-Design, implement, and call low-level I/O procedures (Assembly)
+Fill an array with random numbers, perfom a selection sort, and display the array (Assembly)
